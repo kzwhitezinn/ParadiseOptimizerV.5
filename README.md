@@ -8,6 +8,6 @@
 - Deixe ele totalmente rapido ⏰
 - Interface minimalista 🎨
 
-Obs :accessibility: : Execute como administrador e **Crie um ponto de restauracao**
+Obs : Execute como administrador e **Crie um ponto de restauracao**
 
 Desenvolvido por [@kzWhitezinn](https://discord.gg/ZjXNMJBMMV)
