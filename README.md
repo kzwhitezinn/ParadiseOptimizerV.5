@@ -1,5 +1,5 @@
 
-# Seja Bem Vindo Ao zWhitezinnOptimizer | ParadiseOptimizer V2.5
+# Seja Bem Vindo Ao zWhitezinnOptimizer | ParadiseOptimizer V2
 
 - Entre no nosso  [Discord](https://discord.gg/ZjXNMJBMMV)
 
@@ -7,7 +7,15 @@
 - Deixe ele totalmente rapido ⏰
 - Interface minimalista 🎨
 
-Obs : Execute como administrador e **Crie um ponto de restauracao**
+
+Observacoes :
+  ```
+Execute como administrador
+  ```
+
+  ```
+Crie um ponto de restauracao
+  ```
 
 Desenvolvido por [@kzWhitezinn](https://discord.gg/ZjXNMJBMMV)
 
